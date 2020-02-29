@@ -1,0 +1,13 @@
+name: SACologne
+title: SACologne
+username:
+account: christian-bitter
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1850388
+bundleId: 2839437
+url: https://christian-bitter.shinyapps.io/SACologne/
+when: 1582969764.07906
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: cologne_names/cologne_names.R|cologne_names/cologne_names_01.R|cologne_names/cologne_names_02.R|r/99_load_data.R
